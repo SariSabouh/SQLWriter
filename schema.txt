@@ -1,0 +1,245 @@
+Branch No: 1
+Location: Decatur
+Manager: Partridge, Chris
+Crusts: pretzel, thin, new york style, stuffed, deep dish
+Toppings: bacon, green olives, ham, parmesan, green peppers, pepperoni, pickles, buffalo sauce, sriracha, jalapenos
+Services: dine-in, delivery, pick-up
+Employees:
+Joe, Spong
+Zoe, Jones
+Donald, Vernon
+John, Jones
+Margaret, Fleet
+Theresa, Partridge
+Joe, Ward
+John, Fleet
+Darren, Butler
+Ashley, Butler
+Pat, Smith
+Zoe, Ward
+Margaret, Winters
+Jack, Fleet
+Judy, Timson
+Pat, Johnson
+Howard, Davidson
+Theresa, Smith
+Donald, Johnson
+Trisha, Fleet
+Zoe, Fleet
+Judy, Butler
+Ashley, Summers
+Cindy, Turner
+
+
+Branch No: 2
+Location: Decatur
+Manager: Davidson, Chris
+Crusts: deep dish, thin, pretzel, stuffed, new york style
+Toppings: pepperoni, green peppers, pickles, mushrooms, ham, sriracha, salami, onions, sausage, tomatoes, anchovies
+Services: pick-up, catering, dine-in
+Employees:
+John, Partridge
+Lou, Rain
+Judy, Rain
+Cindy, Vernon
+John, Summers
+Zoe, Turner
+Theresa, Johnson
+Jacob, Turner
+Joe, Turner
+Pat, Johnson
+Jacob, Hill
+Brenda, Fleet
+Joe, Bench
+
+
+Branch No: 3
+Location: Oxford
+Manager: Jones, Chris
+Crusts: deep dish, stuffed, pretzel, new york style
+Toppings: salami, anchovies, ham
+Services: catering
+Employees:
+Susan, Bench
+Chris, Partridge
+Margaret, Turner
+Joe, Davidson
+Susan, Davidson
+
+
+Branch No: 4
+Location: Anniston
+Manager: Butler, Zoe
+Crusts: pretzel, new york style, thin, deep dish
+Toppings: anchovies, ham, bacon, pickles, green olives, pepperoni, salami, onions, jalapenos, sausage, parmesan, mushrooms, tomatoes
+Services: delivery, pick-up, catering, dine-in
+Employees:
+Margaret, Rain
+Theresa, Rain
+John, Smith
+Pat, Bench
+Lou, Smith
+James, Ward
+Donald, Johnson
+
+
+Branch No: 5
+Location: Jacksonville
+Manager: Ward, Zoe
+Crusts: thin, stuffed, new york style, deep dish
+Toppings: ham, black olives, green peppers, pepperoni, green olives, onions, tomatoes, parmesan, sausage, buffalo sauce, salami, bacon
+Services: catering, delivery
+Employees:
+John, Fleet
+Joe, Spong
+Jack, Turner
+Theresa, Winters
+Cindy, Fleet
+Joe, Butler
+Cindy, Butler
+Howard, Davidson
+Howard, Winters
+Howard, Jones
+Darren, Winters
+John, Winters
+Jack, Rain
+Howard, Hill
+Howard, Bench
+Theresa, Ash
+
+
+Branch No: 6
+Location: Montgomery
+Manager: West, Brenda
+Crusts: pretzel, thin, new york style, stuffed, deep dish
+Toppings: salami, buffalo sauce, ham, green olives, anchovies, bacon, tomatoes, onions, parmesan, black olives, jalapenos
+Services: pick-up, delivery
+Employees:
+Ashley, Smith
+James, Davidson
+Jack, Fleet
+Howard, Ash
+Brenda, Turner
+Joe, Fleet
+Jack, Jones
+Margaret, Hill
+Howard, Fleet
+Trisha, Bench
+Chris, Davidson
+Joe, Summers
+Chris, Spong
+James, Johnson
+Brenda, West
+James, Winters
+Jacob, Rain
+
+
+Branch No: 7
+Location: Huntsville
+Manager: Johnson, Susan
+Crusts: pretzel, stuffed, thin
+Toppings: sriracha, green olives, jalapenos, pickles, green peppers, mushrooms, bacon, salami, anchovies, sausage, tomatoes, buffalo sauce, ham, pepperoni
+Services: catering, delivery, pick-up, dine-in
+Employees:
+Jacob, Johnson
+Brenda, Spong
+Judy, Butler
+Pat, Timson
+Theresa, Davidson
+Trisha, West
+Margaret, Turner
+James, Ash
+Chris, Hill
+
+
+Branch No: 8
+Location: Anniston
+Manager: Ward, Darren
+Crusts: thin, stuffed, deep dish, pretzel
+Toppings: pickles, tomatoes, parmesan, sriracha, salami, sausage, buffalo sauce, onions, anchovies, green peppers, jalapenos, ham, green olives, mushrooms
+Services: catering
+Employees:
+Lou, Rain
+Jacob, Johnson
+Trisha, Johnson
+Zoe, Fleet
+Brenda, Jones
+Lou, West
+Jacob, Davidson
+Susan, Johnson
+Cindy, Winters
+Brenda, Butler
+Jacob, Partridge
+Jack, Timson
+Howard, Butler
+Zoe, Smith
+Trisha, Spong
+Howard, Turner
+James, Hill
+Chris, Ward
+John, Winters
+
+
+Branch No: 9
+Location: Sax
+Manager: Davidson, Jack
+Crusts: stuffed, deep dish, thin, pretzel
+Toppings: tomatoes, anchovies, sausage, onions, ham, bacon
+Services: delivery, catering
+Employees:
+Pat, Ward
+Chris, Ward
+Chris, Butler
+Judy, Ward
+Susan, Bench
+James, Butler
+Zoe, Johnson
+Pat, Hill
+Joe, Johnson
+John, Butler
+Trisha, Butler
+Howard, Rain
+Trisha, Johnson
+Theresa, Winters
+James, Vernon
+Chris, Spong
+Theresa, Turner
+Susan, Hill
+Jacob, Ash
+Lou, Summers
+
+
+Branch No: 10
+Location: Sax
+Manager: Winters, Chris
+Crusts: deep dish, thin, new york style
+Toppings: bacon, green olives, pepperoni, pickles, sausage, black olives, sriracha, jalapenos, buffalo sauce, onions, green peppers, mushrooms, salami, tomatoes
+Services: dine-in, pick-up
+Employees:
+Judy, Spong
+John, West
+Joe, Turner
+Brenda, Rain
+Donald, Rain
+Brenda, Smith
+Darren, Butler
+John, Bench
+Theresa, Butler
+Brenda, Jones
+Cindy, Timson
+Darren, West
+Margaret, Ash
+Margaret, Turner
+Howard, Rain
+Howard, Timson
+Zoe, Fleet
+Trisha, Hill
+John, Timson
+Judy, Johnson
+Susan, Ward
+Donald, Ward
+Ashley, Davidson
+
+
+
+Branch No
